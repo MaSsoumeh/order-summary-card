@@ -17,7 +17,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [](https://order-summary-card-chlng.netlify.app/)
 
 ### Built with
 
@@ -37,5 +37,4 @@ https://www.w3schools.com/
 
 ## Author
 
-- Website - [Masoumeh Zarei](https://www.your-site.com)
 - Frontend Mentor - [@MaSsoumeh](https://www.frontendmentor.io/profile/MaSsoumeh)
