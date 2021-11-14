@@ -17,7 +17,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [](https://order-summary-card-chlng.netlify.app/)
+- Live Site URL: [order-summary-card](https://order-summary-card-chlng.netlify.app/)
 
 ### Built with
 
